@@ -7,9 +7,17 @@ This is a horror/comedy movie about how people's greatest fears come to life aft
 
 ## The Cast
 - The Manager: Steve Carell (Steve has boycotted manager roles since the office): Jeremy Rossmann
-- The Big Boss: ( Chris Breakman the only guy who didn't die, obviously) Yveslym
+- The CEO: ( Chris Breakman first to die because arrogance) Yveslym
 - The Lead Engineer: Lucy Lu (we should use somebody with real engineering experience): Phyllis Wong
 - The New Girl: Zooey Deschanel (xpensive): Sky Xu
 - The Junior Engineer: Jesse Eisenberg(nice choice, but too expensive): TJ King
 - The IT Guy: Woody Harrelson (out of budget): Matthew Harrilal
 - The Suave Dude Who Essentially Is Eccentric: Mondale Felix
+
+
+###  Who dies when
+- The CEO dies
+- The lead engineer lives
+- The new girl also lives
+- everyone else dies
+- the manager is the last to die
